@@ -4,7 +4,7 @@ MegaETH aims to push the envelope of **ultra-high performance EVM-compatible** l
 
 Solving hard and rewarding performance problems one (well, sometimes more😏) at a time:
 - Highly-optimized sequencer node for large-RAM machines
-- EVM bytecode -> native code compiler
+- EVM bytecode -> native code [compiler](https://github.com/megaeth-labs/evmone-compiler)
 - Parallel and asynchronous transaction processing
 - Super IO-efficient state trie design
 - High-throughput transaction broadcasting protocol
