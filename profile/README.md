@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-MegaETH aims to push the envelope of **ultra-high performance EVM-compatible** layer-2 & 3 blockchains.
+MegaETH is the first real-time blockchain, streaming transactions at lightning speed -- sub-millisecond latency and over 100,000 transactions per second -- all while maintaining a symbiotic relationship with the Ethereum ecosystem.
 
-Solving hard and rewarding performance problems one (well, sometimes more😏) at a time:
-- Highly-optimized sequencer node for large-RAM machines
+Solving hard and rewarding performance problems across the entire stack:
+- Hyper-optimized EVM execution engine for large-RAM sequencer nodes
 - EVM bytecode -> native code [compiler](https://github.com/megaeth-labs/evmone-compiler)
-- Parallel and asynchronous transaction processing
-- Super IO-efficient state trie design
+- Efficient concurrency control protocols for parallel EVM
+- Low-latency transaction streaming
+- Novel state trie design that is memory- & IO-efficient
 - High-throughput transaction broadcasting protocol
-- Better database for Ethereum execution client
+- Better databases for storing blockchain states & history data
+- ...
 
 Stay tuned for more updates💪
