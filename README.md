@@ -1,7 +1,14 @@
-# THE FIRST REAL-TIME BLOCKCHAIN
-100,000+ TRANSACTIONS PER SECOND,
-10+ GGAS PER SECOND,
-SUB 10-MS BLOCKTIMES,
-SETTLED ON ETHEREUM.
+# MegaETH is real-time Ethereum, streaming transactions at lightning speed -- sub-millisecond latency and over 100,000 transactions per second -- all while maintaining a symbiotic relationship with the Ethereum ecosystem.
+
+Solving hard and rewarding performance problems across the entire stack:
+
+Hyper-optimized EVM execution engine for large-RAM sequencer nodes
+EVM bytecode -> native code compiler
+Efficient concurrency control protocols for parallel EVM
+Low-latency transaction streaming
+Novel state trie design that is memory- & IO-efficient
+High-throughput transaction broadcasting protocol
+Better databases for storing blockchain states & history data
+...
 
 megaeth.com
